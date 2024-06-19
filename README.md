@@ -1,3 +1,3 @@
 # Curso-frontend
-praticando - html - css - javascript - python 
+praticando - html - css - javascript - python -
  eterno estudante....
